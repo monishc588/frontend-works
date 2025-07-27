@@ -1,0 +1,177 @@
+.navigator{
+    position: relative;
+    bottom: 10px;
+    width: 101%;
+    right: 10px;
+}
+
+.logo img{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 450px;
+    margin-left: 40px;
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3em;
+    position: relative;
+    bottom: 400px;
+    color: aliceblue;
+    text-align: center;
+}
+.description{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 5mm;
+    position: relative;
+    bottom: 370px;
+    color: aliceblue;
+    margin-left: 615px;
+}
+.Video{
+    margin-left: 40px;
+    position: relative;
+    bottom: 50px;
+    
+}
+.image-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    position: relative;
+    bottom: 365px;
+    margin-left: 670px;
+}
+.additional-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    position: relative;
+    bottom: 375px;
+    margin-left: 670px;
+    color: #0091ff;
+
+}
+.additional-text1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 30px;
+    position: relative;
+    bottom: 375px;
+    margin-left: 670px;
+
+}
+.additional-text2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    position: relative;
+    bottom: 355px;
+    margin-left: 670px;
+    background-color: #ee626b;
+    border-radius: 25px;
+    height: 35px;
+    width: 140px;
+    text-align: center;
+    padding-top: 20px;
+    color: #000000;
+
+}
+.additional-text2:hover{
+    background-color: #0091ff;
+}
+.desbox{
+    margin-left: 10px;
+    height: 300px;
+    width: 1380px;
+    border-radius: 25px;
+    position: relative;
+    bottom: 250px;
+    background-color: #e9ecef;
+}
+.image-text101{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    margin-left: 80px;
+    position: relative;
+    top: 40px;
+    color: #000000;
+}
+.image-text101:hover{
+    color: #0091ff;
+
+}
+.additional-text202{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 40px;
+    margin-left: 80px;
+}
+.heading501{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    position: relative;
+    bottom: 130px;
+    margin-left: 20px;
+    color: #ee626b;
+}
+.description501{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    position: relative;
+    margin-left: 20px;
+    bottom: 100px;
+    color: #000000;
+}
+.box{
+    display: inline-block;
+    height: 350px;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 25px;
+    background-color: #0091ff;
+}
+.additional-text404{
+    position: relative;
+    text-align: center;
+    bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000000;
+}
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+    top: 80px;
+    left: 50px;
+    margin-right: 50px;
+    margin-left: -30px;
+}
+.image-box {
+    position: relative;
+    overflow:visible;
+    text-align: center;
+    width: 25%;
+}
+.navigator1 img{
+    position: relative;
+    top: 100px;
+    width: 1511px;
+    right: 5px;
+    z-index: -1;
+}
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    margin-left: 520px;
+    font-size: 5mm;
+    top: 10px;
+    color: white;
+}
+.home{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    bottom: 650px;
+    margin-left: 1400px;
+    color: #e9ecef;
+
+}
